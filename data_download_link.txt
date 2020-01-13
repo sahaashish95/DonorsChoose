@@ -1,0 +1,8 @@
+1)In this link you can download data that is uncleaned "https://drive.google.com/open?id=1Cd-GG86OqeGFn9vmYxUgWOmYtsRAYBDO".
+
+file name is  (train.csv)
+
+2)In this link you can download the data that is cleaned after done some cleaning, preprocessing step.
+'https://drive.google.com/open?id=1GU3LIJJ3zS1xLXXe-sdItSJHtI5txjVO'.
+
+ file name is preprocessed.csv
